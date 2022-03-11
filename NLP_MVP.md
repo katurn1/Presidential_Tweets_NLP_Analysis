@@ -1,4 +1,4 @@
-My client want's to take a historical look at Donald Trup's twitter history. Trump is the first president to be that prolific on social media and the client wants better insite inot how he used 
+My client want's to take a historical look at Donald Trup's twitter history. Trump is the first president to be that prolific on social media and the client wants better insite into how he used 
 twitter and what was said.
 
 I cleaned the data by removing numbers, URL, captial letters, null values, non-english words, and punctuation.
