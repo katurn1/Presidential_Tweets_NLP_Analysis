@@ -6,7 +6,7 @@ My client "Political Tomorrow" wants to take a historical look into Donald Trump
 "Political Tomorrow" will use my findings as one part of a bigger project, researching how politicians have and continue to use social media.
 ----------
 ## Data Science Solution
-Build a model using topic modeling and scentiment analysis to gain insite into Trump's twitter history.
+Build a model using topic modeling and sentiment analysis to gain insite into Trump's twitter history.
 
 ## Data
 
