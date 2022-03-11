@@ -3,7 +3,7 @@ I'm interested in looking at the tweet history of Donald Trump. I want to know o
 of Trumps psyche. I will use historical date range information to help explain any spikes in Trupms mood.
 
 # Data Description:
-[All of Trupms tweet history](https://www.thetrumparchive.com/)
+[All of Trumps tweet history](https://www.thetrumparchive.com/)
 
 Originally scrapped using "Tweet Scrapper" by the sites creator, I downloaded the csv file.
 
