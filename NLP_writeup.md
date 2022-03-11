@@ -50,6 +50,7 @@ I tried several types of modeling:
 - NMF w/ TF-IDF
 - CorEx w/ TF-IDF
 - CorEx w/ CountVectorizer
+
 I got the best results using CorEx w/ CountVectorizer for clear topic catagories.
 
 I named and used the topic categories the get topic probabilities for each tweet. Next the top probabilities were concatenated to one column of the dataframe with the topic name for each tweet.
