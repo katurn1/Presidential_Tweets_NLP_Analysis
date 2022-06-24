@@ -1,4 +1,4 @@
-# Trupm: Historical Presidential Tweets
+# Trump: Historical Presidential Tweets
 
 ## Abstract
 
