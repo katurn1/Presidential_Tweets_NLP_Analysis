@@ -62,8 +62,7 @@ dataframe with the topic name for each tweet.
 
 **4. Sentiment Analysis**: vaderSentiment
 
-Sentiment Analysis was run using vaderSentiment and the scores were added to the data frame for each tweet. The dataframe was then split by week and the compound Sentiment 
-score was averaged for each week. 
+Sentiment Analysis was run using vaderSentiment and the scores were added to the data frame for each tweet. The dataframe was then split by week and the compound Sentiment score (used as an overall indicator) was averaged for each week. 
 
 **5. Evaluate & Interpret**
 
@@ -87,14 +86,31 @@ generated it had the second most tweets of any topic.
 
 <img width="891" alt="topics over time" src="https://user-images.githubusercontent.com/87869709/175753787-a15a6945-55f0-4fee-8b5f-4791de9416e4.png">
 
+Here we see spikes with a similar slope in tweets for the topics 'Presidential', 'Trump Speaks Out', and 'Trump Being Trump'. The timeline coincides with when Trump started to speak out on Twitter and through his candidacy for president. In the second half of his presidency we see a spike in the amount of tweets for all topics.
+
 ### Average Compound Sentiment Score
 Here is the average Sentiment score for before and after Trump became president.
 
 <img width="662" alt="Screen Shot 2022-06-24 at 9 47 21 PM" src="https://user-images.githubusercontent.com/87869709/175753700-b8ee0843-e481-432a-a286-79095419080b.png">
 
+Overall Trump's tweets were positive but somewhat less after he became president.
+
 ### Average Compound Sentiment Over Time
+Here we see Trump's tweets displayed overtime, group together by week, and shows when he was a civilian, candidate, and president.
 
 <img width="1343" alt="compound over time" src="https://user-images.githubusercontent.com/87869709/175753821-1865e26c-d102-4963-9efa-e45c9c8dc771.png">
+
+**Civilian:**
+- In the begining of his tweet history we see big jumps in +/- for the tweets. This is because Trump is tweeting less but when he does the tweets tend to be very positive or negative. 
+- The highest positive point (0.971) of trumps Twitter history happens in this time, and it's a tweet wishing everyone a merry Christmas.
+- Trumps most negative point (-0.236) happens while he is still a civilian. Several things coincide with this timeframe.
+1. July 4, 2011 Fox News gets Hacked
+2. July 6, First "Twitter Presidental Town Hall" hosted by Jack Dorsey (co-founder and former CEO of Twitter) with President Obama
+3. This is the first time we see Trump's raw and unfiltered political critique of Obama.
+4. Over the following feew months Trump overtly criticizes Obama and Republicans.
+5. This is when we start to see his Twitter following start to swell
+1. July 4, 2011 Fox News gets Hacked
+
 
 ## Key Takeaways
 - Overall Trump tweets are not super negative
