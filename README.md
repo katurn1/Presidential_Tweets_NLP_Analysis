@@ -103,14 +103,25 @@ Here we see Trump's tweets displayed overtime, group together by week, and shows
 **Civilian:**
 - In the begining of his tweet history we see big jumps in +/- for the tweets. This is because Trump is tweeting less but when he does the tweets tend to be very positive or negative. 
 - The highest positive point (0.971) of trumps Twitter history happens in this time, and it's a tweet wishing everyone a merry Christmas.
-- Trumps most negative point (-0.236) happens while he is still a civilian. Several things coincide with this timeframe.
-1. July 4, 2011 Fox News gets Hacked
-2. July 6, First "Twitter Presidental Town Hall" hosted by Jack Dorsey (co-founder and former CEO of Twitter) with President Obama
+- Trumps most negative point (-0.236) happens while he is still a civilian. Several things coincide with this timeframe:
+1. July 4- 2011 Fox News gets Hacked
+2. July 6- First "Twitter Presidental Town Hall" hosted by Jack Dorsey (co-founder and former CEO of Twitter) with President Obama
 3. This is the first time we see Trump's raw and unfiltered political critique of Obama.
 4. Over the following feew months Trump overtly criticizes Obama and Republicans.
-5. This is when we start to see his Twitter following start to swell
-1. July 4, 2011 Fox News gets Hacked
+5. This is when we see his Twitter following start to swell.
 
+**Candidate**
+- For this period the trend slopes negative. Trump is running attack ads on opponents in getting kind of nasty.
+
+**President**
+- The lowest negative point (-0.049) for tweets happens at the beginning of trumps presidency. Things of note happeing around this timeframe:
+1. Trump goes on an executive order signing spree
+2. Feb. 3, 2017- District Court temporarily blocks order to temporarily block immigration from seven Middle Eastern nations
+3. Feb. 5- 9th Circuit court denies request from Trump administration to immediately reinstate travel ban
+4. Trump refers to Elizabeth Warren as Pocahontas.
+(Trump is lashing out everywhere cause he is not getting his way on everything)
+- The highest positive point (0.526) for tweets and during his presidency happens in the middle of this period. Of
+note around this timeframe: Oct. 5, 2018- The Senate confirms Brett Kavanaugh to the Supreme Court.
 
 ## Key Takeaways
 - Overall Trump tweets are not super negative
