@@ -9,7 +9,7 @@ Donald Trump is the most prolific president when it comes to tweeting. I wanted 
 <img width="1129" alt="Screen Shot 2022-06-24 at 1 04 24 PM" src="https://user-images.githubusercontent.com/87869709/175609035-5757130b-b2f9-45ed-9271-c7e44074dbd6.png">
 
 ## The Goal
-Build a model using topic modeling and sentiment analysis to gain insite into Trump's twitter history.
+Build a model using topic modeling and sentiment analysis to gain insight into Trump's twitter history.
 
 ## Data
 [All of Trumps tweet history](https://www.thetrumparchive.com/) 2009-2021
