@@ -101,13 +101,13 @@ Here we see Trump's tweets displayed overtime, group together by week, and shows
 <img width="1343" alt="compound over time" src="https://user-images.githubusercontent.com/87869709/175753821-1865e26c-d102-4963-9efa-e45c9c8dc771.png">
 
 **Civilian:**
-- In the begining of his tweet history we see big jumps in +/- for the tweets. This is because Trump is tweeting less but when he does the tweets tend to be very positive or negative. 
+- In the beginning of his tweet history we see big jumps in +/- for the tweets. This is because Trump is tweeting less but when he does the tweets tend to be very positive or negative. 
 - The highest positive point (0.971) of trumps Twitter history happens in this time, and it's a tweet wishing everyone a merry Christmas.
 - Trumps most negative point (-0.236) happens while he is still a civilian. Several things coincide with this timeframe:
 1. July 4- 2011 Fox News gets Hacked
-2. July 6- First "Twitter Presidental Town Hall" hosted by Jack Dorsey (co-founder and former CEO of Twitter) with President Obama
+2. July 6- First "Twitter Presidential Town Hall" hosted by Jack Dorsey (co-founder and former CEO of Twitter) with President Obama
 3. This is the first time we see Trump's raw and unfiltered political critique of Obama.
-4. Over the following feew months Trump overtly criticizes Obama and Republicans.
+4. Over the following few months Trump overtly criticizes Obama and Republicans.
 5. This is when we see his Twitter following start to swell.
 
 **Candidate**
