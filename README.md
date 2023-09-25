@@ -124,9 +124,9 @@ Here we see Trump's tweets displayed overtime, group together by week, and shows
 note around this timeframe: Oct. 5, 2018- The Senate confirms Brett Kavanaugh to the Supreme Court.
 
 ## Key Takeaways
-- Overall Trump tweets are not super negative.
+- Overall Trump's tweets are not super negative.
 - He praises quite a bit.
-- The number topics he tweets about grow in the second half of his presidency.
+- The number of topics he tweets about grow in the second half of his presidency.
 - Earlier tweets vary greatly between +/-.
 - Unfiltered Trump shows up around July 6, 2011.
 - He is slightly more positive before his presidency.
