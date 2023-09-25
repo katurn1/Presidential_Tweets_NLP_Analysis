@@ -77,7 +77,7 @@ Sentiment Analysis was run using vaderSentiment and the scores were added to the
 6. Presidential
 7. Trump Being Trump
 
-For the topics 'Trump Speaks Out' and 'Trump Being Trump', they both had similare tweets in them but interestly even thought 'Trump Being Trump' was the last topic 
+For the topics 'Trump Speaks Out' and 'Trump Being Trump', they both had similar tweets in them but interestingly even thought 'Trump Being Trump' was the last topic 
 generated it had the second most tweets of any topic.
 
 <img width="1097" alt="Screen Shot 2022-03-10 at 8 15 26 PM" src="https://user-images.githubusercontent.com/87869709/175753436-ee79b204-1193-4aea-b02c-3d251ae3a55d.png">
