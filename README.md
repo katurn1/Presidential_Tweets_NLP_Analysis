@@ -114,7 +114,7 @@ Here we see Trump's tweets displayed overtime, group together by week, and shows
 - For this period the trend slopes negative. Trump is running attack ads on opponents in getting kind of nasty.
 
 **President**
-- The lowest negative point (-0.049) for tweets happens at the beginning of trumps presidency. Things of note happeing around this timeframe:
+- The lowest negative point (-0.049) for tweets happens at the beginning of trumps presidency. Things of note happening around this timeframe:
 1. Trump goes on an executive order signing spree.
 2. Feb. 3, 2017- District Court temporarily blocks order to temporarily block immigration from seven Middle Eastern nations.
 3. Feb. 5- 9th Circuit court denies request from Trump administration to immediately reinstate travel ban.
